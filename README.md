@@ -7,7 +7,7 @@ Project yang dibuat berupa pengembangan website secara bertahap, dimulai dari we
 
 ## 📂 Struktur Tugas
 
-### 📁 [Week 1](./Week%20satu%20fix/Week1%20Tugas)  
+### [Week 1](./Week%20satu%20fix/Week1%20Tugas)  
 Pada week ini dibuat project awal berupa **website skincare sederhana**.  
 
 Fitur yang ada:
@@ -17,7 +17,7 @@ Fitur yang ada:
 
 ---
 
-### 📁 [Week 2](./Week%202/TA_week2)  
+###  [Week 2](./Week%202/TA_week2)  
 Pada week ini dibuat website penjualan risol dengan fitur interaksi sederhana.  
 
 Fitur yang ada:
@@ -27,7 +27,7 @@ Fitur yang ada:
 
 ---
 
-### 📁 [Week 3](./Week%203/TA_week2)  
+###  [Week 3](./Week%203/TA_week2)  
 Pada week ini dilakukan pengembangan fitur interaksi pada website risol.  
 
 Fitur tambahan:
@@ -37,13 +37,13 @@ Fitur tambahan:
 
 ---
 
-## 🍽️ Tentang Project
+## Tentang Project
 
 Project ini merupakan latihan pembuatan website berbasis **HTML, CSS, dan JavaScript**, yang dikembangkan secara bertahap setiap minggu.
 
 ---
 
-## ✨ Catatan
+## Catatan
 
 - Setiap week merupakan lanjutan/pengembangan dari sebelumnya  
 - Project dibuat untuk keperluan pembelajaran
