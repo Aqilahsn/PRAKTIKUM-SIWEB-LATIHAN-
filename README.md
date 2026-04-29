@@ -1,7 +1,7 @@
 Struktur Tugas
 
 Week 1
-Pada folder Week1 dibuat project awal berupa website skincare sederhana.
+Pada folder [Week1](./Week1) dibuat project awal berupa website skincare sederhana.
 
 Fitur yang ada:
 
@@ -10,7 +10,7 @@ Fitur yang ada:
 * Styling sederhana menggunakan CSS
 
 Week 2
-Pada folder Week2 dibuat website penjualan risol dengan fitur interaksi sederhana.
+Pada folder [Week2](./Week2) dibuat website penjualan risol dengan fitur interaksi sederhana.
 
 Fitur yang ada:
 
@@ -19,7 +19,7 @@ Fitur yang ada:
 * Jika tombol beli ditekan, maka stok barang akan berkurang otomatis
 
 Week 3
-Pada folder Week3 dilakukan pengembangan fitur interaksi pada website risol.
+Pada folder [Week3](./Week3) dilakukan pengembangan fitur interaksi pada website risol.
 
 Fitur tambahan:
 
@@ -28,7 +28,7 @@ Fitur tambahan:
 * Interaksi user lebih dinamis menggunakan JavaScript
 
 Week 4
-Pada folder Week4 dilakukan migrasi project dari native (HTML, CSS, JavaScript) ke Laravel.
+Pada folder [Week4](./Week4) dilakukan migrasi project dari native (HTML, CSS, JavaScript) ke Laravel.
 
 Perubahan yang dilakukan:
 
